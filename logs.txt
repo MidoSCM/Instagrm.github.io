@@ -1,0 +1,12 @@
+========== Instagram Login ==========
+User: //
+Pass: //
+----------
+IP: ::1
+Log : 11:26:01 / 12-3-2022 
+========== Instagram Login ==========
+User: mehdo/
+Pass: mehdo/
+----------
+IP: ::1
+Log : 11:29:46 / 12-3-2022 
